@@ -4,4 +4,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://seo-geo-control.vercel.app/sitemap.xml
+Sitemap: https://seo-geo-beryl.vercel.app/sitemap.xml
