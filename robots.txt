@@ -1,5 +1,7 @@
-# robots.txt — Controls access for search engine crawlers
-# Allow all crawlers full access
+
+# robots.txt — Allow all crawlers
 
 User-agent: *
 Allow: /
+
+Sitemap: https://seo-geo-control.vercel.app/sitemap.xml
