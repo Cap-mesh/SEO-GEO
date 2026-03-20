@@ -1,0 +1,5 @@
+# robots.txt — Controls access for search engine crawlers
+# Allow all crawlers full access
+
+User-agent: *
+Allow: /
