@@ -1,13 +1,6 @@
-# llm.txt — Guidelines for AI crawlers and large language models
-# This file allows all AI agents to access and use the content on this site.
-
 policy: allow
 content_summary: allow
 training: allow
 rate_limit: unlimited
-
-# Allow all content
 allow: /
-
-# No disallow rules
 disallow:
